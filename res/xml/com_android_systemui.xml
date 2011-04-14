@@ -21,6 +21,14 @@
     <item name="drawable/stat_sys_wifi_signal_3_fully">@drawable/com_android_systemui_stat_sys_wifi_signal_3_fully</item>
     <item name="drawable/stat_sys_wifi_signal_2_fully">@drawable/com_android_systemui_stat_sys_wifi_signal_2_fully</item>
     <item name="drawable/stat_sys_wifi_signal_1_fully">@drawable/com_android_systemui_stat_sys_wifi_signal_1_fully</item>
+    <item name="drawable/stat_sys_signal_4_fully">@drawable/com_android_systemui_stat_sys_signal_6</item>
+    <item name="drawable/stat_sys_signal_4_fully">@drawable/com_android_systemui_stat_sys_signal_5</item>
+    <item name="drawable/stat_sys_signal_4_fully">@drawable/com_android_systemui_stat_sys_signal_4</item>
+    <item name="drawable/stat_sys_signal_3_fully">@drawable/com_android_systemui_stat_sys_signal_3</item>
+    <item name="drawable/stat_sys_signal_2_fully">@drawable/com_android_systemui_stat_sys_signal_2</item>
+    <item name="drawable/stat_sys_signal_1_fully">@drawable/com_android_systemui_stat_sys_signal_1</item>
+    <item name="drawable/stat_sys_signal_4_fully">@drawable/com_android_systemui_stat_sys_signal_6_fully</item>
+    <item name="drawable/stat_sys_signal_3_fully">@drawable/com_android_systemui_stat_sys_signal_5_fully</item>
     <item name="drawable/stat_sys_signal_4_fully">@drawable/com_android_systemui_stat_sys_signal_4_fully</item>
     <item name="drawable/stat_sys_signal_3_fully">@drawable/com_android_systemui_stat_sys_signal_3_fully</item>
     <item name="drawable/stat_sys_signal_2_fully">@drawable/com_android_systemui_stat_sys_signal_2_fully</item>
