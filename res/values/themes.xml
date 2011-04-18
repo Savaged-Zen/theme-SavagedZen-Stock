@@ -16,7 +16,7 @@
  -->
 
 <resources>
-    <style name="Androidian" parent="@android:style/Theme" />
-    <boolean name="EXTRA_THEME_COMPATIBILITY_SIGNAL">true</boolean>
-    <boolean name="EXTRA_THEME_COMPATIBILITY_BATTERY">true</boolean>
+    <style name="Androidian-6/100" parent="@android:style/Theme" />
+    <bool name="EXTRA_THEME_COMPATIBILITY_SIGNAL">true</bool>
+    <bool name="EXTRA_THEME_COMPATIBILITY_BATTERY">true</bool>
 </resources>
