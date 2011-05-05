@@ -193,6 +193,7 @@
     <item name="drawable/stat_sys_download_anim3">@drawable/frameworks_res_stat_sys_download_anim3</item>
     <item name="drawable/stat_sys_download_anim2">@drawable/frameworks_res_stat_sys_download_anim2</item>
     <item name="drawable/stat_sys_download_anim1">@drawable/frameworks_res_stat_sys_download_anim1</item>
+    <item name="drawable/stat_sys_battery_charge_mod_animfull">@drawable/frameworks_res_stat_sys_battery_charge_animfull</item>
     <item name="drawable/stat_sys_battery_charge_mod_anim20">@drawable/frameworks_res_stat_sys_battery_charge_anim20</item>
     <item name="drawable/stat_sys_battery_charge_mod_anim19">@drawable/frameworks_res_stat_sys_battery_charge_anim19</item>
     <item name="drawable/stat_sys_battery_charge_mod_anim18">@drawable/frameworks_res_stat_sys_battery_charge_anim18</item>
