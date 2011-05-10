@@ -16,9 +16,9 @@
  -->
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name">Androidian-6-100 Theme</string>
-    <string name="theme_name">Androidian-6-100</string>
-    <string name="style_appearance_name">Androidian-6-100</string>
-    <string name="author">T-Mobile MSD</string>
-    <string name="copyright">T-Mobile</string>
+    <string name="app_name">SavagedZen-Stock Theme</string>
+    <string name="theme_name">SavagedZen-Stock</string>
+    <string name="style_appearance_name">SavagedZen-Stock</string>
+    <string name="author">Joshua Seidel</string>
+    <string name="copyright">SavagedZen</string>
 </resources>

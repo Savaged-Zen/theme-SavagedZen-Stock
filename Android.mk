@@ -3,7 +3,7 @@ include $(CLEAR_VARS)
 
 LOCAL_MODULE_TAGS := optional
 
-LOCAL_PACKAGE_NAME := Androidian-6-100
+LOCAL_PACKAGE_NAME := SavagedZen-Stock
 
 LOCAL_AAPT_FLAGS := -c mdpi,hdpi -x 10
 

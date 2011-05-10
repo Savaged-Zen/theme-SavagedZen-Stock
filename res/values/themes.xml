@@ -16,5 +16,5 @@
  -->
 
 <resources>
-    <style name="Androidian-6-100" parent="@android:style/Theme" />
+    <style name="SavagedZen-Stock" parent="@android:style/Theme" />
 </resources>
