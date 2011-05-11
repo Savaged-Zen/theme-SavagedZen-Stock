@@ -34,8 +34,8 @@
          a light UI more visible. -->
     <drawable name="screen_background_light_transparent">#80ffffff</drawable>
     <color name="safe_mode_text">#80ffffff</color>
-    <color name="color_primary_focus">#ff99cc00</color>
-    <color name="color_primary_press">#ffe0f840</color>
+    <color name="color_primary_focus">#fff7f7ff</color>
+    <color name="color_primary_press">#ffebebff</color>
     <color name="white">#ffffffff</color>
     <color name="black">#ff000000</color>
     <color name="transparent">#00000000</color>
@@ -68,12 +68,12 @@
     <color name="darker_gray">#aaa</color>
 
     <!-- For security permissions -->
-    <color name="perms_dangerous_grp_color">#ff99cc00</color>
-    <color name="perms_dangerous_perm_color">#ff66cc00</color>
+    <color name="perms_dangerous_grp_color">#fff7f7ff</color>
+    <color name="perms_dangerous_perm_color">#ffebebff</color>
     <color name="shadow">#cc222222</color>
 
-    <color name="launcher_glow_pressed">#ffe0f840</color>
-    <color name="launcher_glow_focused">#ffb2ca11</color>
+    <color name="launcher_glow_pressed">#fff7f7ff</color>
+    <color name="launcher_glow_focused">#ffebebff</color>
 
 </resources>
 
